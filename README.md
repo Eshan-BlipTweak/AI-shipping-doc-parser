@@ -8,12 +8,12 @@ A document intelligence pipeline that extracts structured data from scanned Bill
 
 ## Background
 
-During my internship at ODeX, I built a production document intelligence pipeline that processed scanned Bills of Lading at scale, achieving **97% schema fulfillment in production**. This repository contains:
+During my internship at ODeX, We built a production document intelligence pipeline that processed scanned Bills of Lading at scale, achieving **97% schema fulfillment in production**. This repository contains:
 
 1. **A simplified demo pipeline** (`shipping_doc_parser.ipynb`) — rebuilt independently to demonstrate the core extraction logic
 2. **An OpenClaw shipping domain skill** (`openclaw-skill/SKILL.md`) — a conversational agent with BL domain expertise
 
-The production pipeline I built at ODeX was significantly more complex. This demo shows the core logic.
+The production pipeline we built at ODeX was significantly more complex. This demo shows the core logic.
 
 ---
 
