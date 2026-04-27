@@ -2,7 +2,7 @@
 
 A document intelligence pipeline that extracts structured data from scanned Bills of Lading using OCR and LLM inference.
 
-**Pipeline:** PDF → OCR (Tesseract) → LLM Extraction (GPT-OSS-120B) → Structured JSON
+**Pipeline:** PDF → Image (pdf2image) → OCR (Tesseract) → LLM Extraction (GPT-OSS-120B) → Structured JSON
 
 ---
 
